@@ -8,6 +8,7 @@
 
 ## 최신 보고서 · 바로 읽기
 
+<!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
 ### 📈 미국 증시 개장 전 브리핑
 
 **2026.10.12 (월) · 분석 기준 22:15 KST**
@@ -17,7 +18,9 @@
 ### **[→ 최신 미국 증시 보고서 바로 읽기](premarket/2026-10-12_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
+<!-- PREMARKET_LATEST_END -->
 
+<!-- PHYSICAL_AI_LATEST_START: update only this section after successful weekly report commit -->
 ### 🤖 AI · Physical AI 주간 심층 리포트
 
 **2026.10.10 (토) · 분석 기준 21:00 KST**
@@ -27,6 +30,7 @@
 ### **[→ 최신 Physical AI 보고서 바로 읽기](physical-ai/2026-10-10_AI-PhysicalAI_주간.md)**
 
 토요일 · 21:00 KST 발행 예정
+<!-- PHYSICAL_AI_LATEST_END -->
 
 > **발행 참고:** 위 두 보고서는 2026.10.13에 과거 기준 시점으로 재구성한 문서입니다. 정기 예약의 실제 자동 발행 성공을 뜻하지는 않습니다.
 
@@ -36,8 +40,10 @@
 
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
+<!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
 | 2026-10-12 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-12_미국증시_개장전.md) | 과거 시점 재구성 |
 | 2026-10-10 | 🤖 Physical AI | [AI·로보틱스 주간 심층 보고서](physical-ai/2026-10-10_AI-PhysicalAI_주간.md) | 과거 시점 재구성 |
+<!-- ARCHIVE_ROWS_END -->
 
 **전체 목록:** [미국 증시 보고서](premarket/) · [AI / Physical AI 보고서](physical-ai/)
 
@@ -51,3 +57,5 @@
 - **공유용 공개 문서:** 개인 계좌 수치나 비공개 금융정보는 포함하지 않습니다.
 
 *이 저장소의 시장 분석은 정보 제공 목적이며 개인화된 투자 조언이 아닙니다.*
+
+<!-- AUTOMATION CONTRACT: After successfully committing a report, read the latest README and its SHA. Update only the corresponding PREMARKET_LATEST or PHYSICAL_AI_LATEST block (date, short factual summary, direct relative .md link). Insert one verified dated report row within ARCHIVE_ROWS markers; keep reverse chronological order, avoid duplicates and preserve the other category. Preserve all other README content and these markers. Use SHA-aware update and re-fetch to verify the report link and README. If the report commit fails, do not publish a broken latest link. GitHub Markdown must remain directly readable in browser/mobile. -->
