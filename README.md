@@ -9,13 +9,15 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 미국 증시 개장 전 브리핑
+### 📈 2026-10-13 미국 증시 개장 전 심층 브리핑
 
-**2026.10.12 (월) · 분석 기준 22:15 KST**
+**2026.10.13 (화) · 자료 확인 22:27 KST**
 
-> S&P 500 · Nasdaq 100 · SOX, 거시경제 및 AI·반도체 관련 주요 이슈를 구분해 분석합니다.
+> 전일 S&P 500 -0.06%, Nasdaq 100 -0.71%, SOX -2.67%로 반도체의 상대 약세가 두드러졌습니다. AI 투자 회수·NVIDIA 중국 출하 변화와 은행별 실적 차이를 분석하고, 내일 CPI와 개장 후 검증 변수를 구분했습니다.
 
-### **[→ 최신 미국 증시 보고서 바로 읽기](premarket/2026-10-12_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-13_미국증시_개장전.md)**
+
+오늘 공개 자료로 작성·저장한 보고서입니다. 아래 과거 시점 재구성 안내는 기존 10월 12일·10월 10일 보고서에 해당합니다.
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +43,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-13 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-13_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-12 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-12_미국증시_개장전.md) | 과거 시점 재구성 |
 | 2026-10-10 | 🤖 Physical AI | [AI·로보틱스 주간 심층 보고서](physical-ai/2026-10-10_AI-PhysicalAI_주간.md) | 과거 시점 재구성 |
 <!-- ARCHIVE_ROWS_END -->
