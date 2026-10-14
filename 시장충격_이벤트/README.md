@@ -6,10 +6,12 @@
 ## 사건 목록
 날짜는 대표 시장 반응일(KST)이며 발표일·작성일은 개별 문서에 별도로 표시합니다. 등락률은 정규장 전 거래일 대비입니다.
 
+<!-- MARKET_IMPACT_ROWS_START: update only verified event rows, avoid duplicate event_id -->
+
 | 날짜 | 사건명 | 관련 기업 | 시장 반응 | 문서 |
 | --- | --- | --- | --- | --- |
-<!-- MARKET_IMPACT_ROWS_START: update only verified event rows, avoid duplicate event_id -->
 | 2026-10-13 | CXMT 4F² 서버 DRAM 계획과 한국 메모리주 급락 | CXMT·삼성전자·SK하이닉스·Micron | 삼성전자 −7.39%, SK하이닉스 −10.09%, 코스피 −5.46%; 복합 요인 | [심층 보고서](2026-10-13_CXMT_DRAM.md) |
+
 <!-- MARKET_IMPACT_ROWS_END -->
 
 ## 선정·갱신 원칙
