@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-10-14 미국 증시 개장 전 심층 브리핑
+### 📈 2026-10-15 미국 증시 개장 전 심층 브리핑
 
-**2026.10.14 (수) · 자료 확인 22:30 KST**
+**2026.10.15 (목) · 자료 확인 22:15 KST**
 
-> 9월 CPI가 예상보다 강해 개장 전 S&P 500 E-mini -0.24%, Nasdaq 100 E-mini -0.49%로 전환했습니다. ASML의 2027~2028 장비 수요 신호와 중국 메모리 경쟁·은행 실적의 상반된 영향을 산업별 단기·장기 매트릭스로 분석합니다.
+> 전일 Nasdaq 100 -2.02%, SOX -4.30% 뒤 9월 PPI가 전월 대비 1.3% 급등했습니다. TSMC의 기록적 실적과 2027년 신중론, AI 기업의 자금조달 위험을 산업별 단기·장기 영향 매트릭스로 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-14_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-15_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-15 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-15_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-14 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-14_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-13 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-13_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-12 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-12_미국증시_개장전.md) | 과거 시점 재구성 |
