@@ -21,13 +21,13 @@
 <!-- PREMARKET_LATEST_END -->
 
 <!-- PHYSICAL_AI_LATEST_START: update only this section after successful weekly report commit -->
-### 🤖 AI · Physical AI 주간 심층 리포트
+### 🤖 2026-10-17 AI · Physical AI 주간 심층 리포트
 
-**2026.10.10 (토) · 분석 기준 21:00 KST**
+**2026.10.17 (토) · 자료 기준 21:00 KST**
 
-> AI 모델, 로보틱스, VLA, World Models, 로봇 학습과 기술 검증을 심층 분석합니다. 이번 호에는 EvoMem-VLA Deep Dive가 포함됩니다.
+> QCRL의 저비트 VLA 작업 복구, Δ-flow·FlowVLA, Argon 로봇 활용과 Neuron AI 등 주요 동향 7건을 분석했습니다. QCRL Deep Dive에서 완전 성공·부분 완료·메모리·추론 지연을 구분하고 교육용 제어 실험을 덧붙였습니다.
 
-### **[→ 최신 Physical AI 보고서 바로 읽기](physical-ai/2026-10-10_AI-PhysicalAI_주간.md)**
+### **[→ 최신 Physical AI 보고서 바로 읽기](physical-ai/2026-10-17_AI-PhysicalAI_주간.md)**
 
 토요일 · 21:00 KST 발행 예정
 <!-- PHYSICAL_AI_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-17 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-10-17_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-10-16 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-16_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-15 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-15_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-14 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-14_미국증시_개장전.md) | 당일 자료 검증·발행 |
