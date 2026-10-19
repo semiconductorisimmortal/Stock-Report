@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-10-16 미국 증시 개장 전 심층 브리핑
+### 📈 2026-10-19 미국 증시 개장 전 심층 브리핑
 
-**2026.10.16 (금) · 자료 확인 22:15 KST**
+**2026.10.19 (월) · 자료 확인 22:55 KST**
 
-> 전일 S&P 500 +0.33%와 달리 SOX는 -0.88%로 7거래일 연속 약세였고, 9월 수입물가는 예상보다 높은 +1.1%를 기록했습니다. AI 자금조달 위험, 반도체 업종 분화, Fed의 생산성·물가 양면성과 $63억 보안 M&A를 기간·산업별로 분석합니다.
+> 금요일 SOX가 -3.83%로 8거래일 연속 하락한 뒤 기술주가 반등했지만, 이번 주 AI 실적의 매출·CAPEX·현금흐름 검증이 남았습니다. Amazon TorchNeuron, 중국 GDP와 미국 산업생산을 산업별 단기·장기 영향 매트릭스로 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-16_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-19_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-19 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-19_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-17 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-10-17_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-10-16 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-16_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-15 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-15_미국증시_개장전.md) | 당일 자료 검증·발행 |
