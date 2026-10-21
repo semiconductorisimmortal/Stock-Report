@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-10-20 미국 증시 개장 전 심층 브리핑
+### 📈 2026-10-21 미국 증시 개장 전 심층 브리핑
 
-**2026.10.20 (화) · 자료 확인 22:15 KST**
+**2026.10.21 (수) · 자료 확인 22:15 KST**
 
-> 전일 S&P 500·Nasdaq 100·SOX는 반등했지만 시장 폭은 약했고, 오늘 선물은 유가·금리 부담 속 약세입니다. AI 투자회수율, 브렌트유 111달러, 주택 둔화와 12월 Fed 인상 경로를 산업별 단기·장기 영향으로 분석합니다.
+> SpaceX·Super Micro 실적이 AI 하드웨어 수요 우려를 완화해 Nasdaq 100 선물이 강세를 보였습니다. SpaceX 이익화, SMCI 매출·마진 상향, Netflix 가이던스 하락과 오늘 장후 Meta·Tesla·Lam·TI 검증 변수를 산업별 단기·장기 영향으로 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-20_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-21_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-21 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-21_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-20 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-20_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-19 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-19_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-17 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-10-17_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
