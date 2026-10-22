@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-10-21 미국 증시 개장 전 심층 브리핑
+### 📈 2026-10-22 미국 증시 개장 전 심층 브리핑
 
-**2026.10.21 (수) · 자료 확인 22:15 KST**
+**2026.10.22 (목) · 자료 확인 22:12 KST**
 
-> SpaceX·Super Micro 실적이 AI 하드웨어 수요 우려를 완화해 Nasdaq 100 선물이 강세를 보였습니다. SpaceX 이익화, SMCI 매출·마진 상향, Netflix 가이던스 하락과 오늘 장후 Meta·Tesla·Lam·TI 검증 변수를 산업별 단기·장기 영향으로 분석합니다.
+> 전일 Nasdaq 100·SOX 반등 이후 선물이 다시 급락했습니다. Meta의 CAPEX·FCF 부담, Tesla 투자 축소, Lam Research 실적 후 급락, 브렌트유 111달러와 낮은 실업수당 청구를 산업별 단기·장기 영향으로 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-21_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-22_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-22 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-22_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-21 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-21_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-20 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-20_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-19 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-19_미국증시_개장전.md) | 당일 자료 검증·발행 |
