@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-10-26 미국 증시 개장 전 심층 브리핑
+### 📈 2026-10-27 미국 증시 개장 전 심층 브리핑
 
-**2026.10.26 (월) · 자료 확인 22:20 KST**
+**2026.10.27 (화) · 자료 확인 22:16 KST**
 
-> 직전 정규장에서는 S&P 500 -0.52%·Nasdaq 100 -0.00%·SOX +0.44%로 반도체가 상대 강세였고, 개장 전 선물은 상승했습니다. Anthropic IPO·Meta의 대규모 AI 자금조달, 네오클라우드 신용위험, Fed·PCE·GDP와 반도체 공급망 실적을 기간·산업별로 분석합니다.
+> 전일 S&P 500 +0.70%·Nasdaq 100 +1.09%·SOX +2.82% 반등 뒤 선물도 상승했습니다. 빅테크 AI CAPEX 회수율, Meta 975억달러 잠재 조달, 핵심 자본재·Fed·유가·Boeing·소비·주택을 산업별 단기·장기 영향으로 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-26_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-27_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-27 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-27_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-26 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-26_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-24 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-10-24_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-10-23 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-23_미국증시_개장전.md) | 당일 자료 검증·발행 |
