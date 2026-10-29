@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-10-28 미국 증시 개장 전 심층 브리핑
+### 📈 2026-10-29 미국 증시 개장 전 심층 브리핑
 
-**2026.10.28 (수) · 자료 확인 22:16 KST**
+**2026.10.29 (목) · 자료 확인 22:15 KST**
 
-> 전일 S&P 500 +0.60%·Nasdaq 100 +1.29%·SOX +3.60% 상승 뒤 선물은 혼조였습니다. SK하이닉스 HBM 공급 부족, OpenAI–Google TPU, Anthropic–Broadcom 630억달러 조달, Fed, Microsoft·Alphabet 실적, Vertiv·Enphase와 유가를 산업별 단기·장기 영향으로 분석합니다.
+> 전일 S&P 500 +0.28%·Nasdaq 100 +0.55%·SOX +1.75% 상승 뒤, Alphabet의 AI 현금소진 우려로 Nasdaq 100 선물이 -1.22%였습니다. Microsoft·Alphabet 현금흐름, Fed·GDP·PCE, Samsung 메모리, 소프트웨어 급락, 광통신 인수설, 유가와 장후 Amazon·Intel을 산업별 단기·장기 영향으로 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-28_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-10-29_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-10-29 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-29_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-28 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-28_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-27 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-27_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-26 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-26_미국증시_개장전.md) | 당일 자료 검증·발행 |
