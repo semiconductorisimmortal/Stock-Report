@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-11-03 미국 증시 개장 전 심층 브리핑
+### 📈 2026-11-04 미국 증시 개장 전 심층 브리핑
 
-**2026.11.03 (화) · 자료 확인 22:11 KST**
+**2026.11.04 (수) · 자료 확인 22:11 KST**
 
-> 전일 S&P 500 -0.51%·Nasdaq 100 -1.39%·SOX -3.37% 뒤 Apple 마진 경고와 반도체 반등이 엇갈렸습니다. Nasdaq 100 조정 진입, 중간선거, AMD 실적, Palantir·유가·제조업을 기간·산업별 영향으로 분석합니다.
+> 전일 S&P 500 +0.36%·Nasdaq 100 +0.68%·SOX +2.63% 뒤 민주당의 의회 양원 장악으로 지수 선물이 상승했습니다. 분점정부 안도와 AI 데이터센터 규제, AMD 데이터센터 +97%, 자금조달·고용·소비·유가를 기간·산업별 영향으로 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-03_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-04_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-11-04 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-04_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-03 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-03_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-10-31 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-10-31_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-10-30 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-10-30_미국증시_개장전.md) | 당일 자료 검증·발행 |
