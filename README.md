@@ -21,13 +21,13 @@
 <!-- PREMARKET_LATEST_END -->
 
 <!-- PHYSICAL_AI_LATEST_START: update only this section after successful weekly report commit -->
-### 🤖 2026-10-31 AI · Physical AI 주간 심층 리포트
+### 🤖 2026-11-07 AI · Physical AI 주간 심층 리포트
 
-**2026.10.31 (토) · 자료 기준 21:00 KST**
+**2026.11.07 (토) · 자료 기준 21:00 KST**
 
-> RoboSeed의 검증 가능한 VLA·WAM 평가와 LOGIV의 장기 작업 복구, Genie 4, GPT‑6.1 Terra, 프런티어 agent 모니터링을 분석했습니다. 성공률·비용·재현성·독립 검증 상태를 구분했습니다.
+> Spatial-UMI-Dream의 metric RGB-D 조작, GPWM의 3D particle world model, Anthropic의 agent memory, OpenAI의 보안·과학 agent 평가를 분석했습니다. 실제 로봇·simulation·기관 자체 평가·독립 검증 상태를 구분했습니다.
 
-### **[→ 최신 Physical AI 보고서 바로 읽기](physical-ai/2026-10-31_AI-PhysicalAI_주간.md)**
+### **[→ 최신 Physical AI 보고서 바로 읽기](physical-ai/2026-11-07_AI-PhysicalAI_주간.md)**
 
 토요일 · 21:00 KST 발행 예정
 <!-- PHYSICAL_AI_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-11-07 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-11-07_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-11-06 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-06_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-05 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-05_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-04 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-04_미국증시_개장전.md) | 당일 자료 검증·발행 |
