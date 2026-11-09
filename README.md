@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-11-06 미국 증시 개장 전 심층 브리핑
+### 📈 2026-11-09 미국 증시 개장 전 심층 브리핑
 
-**2026.11.06 (금) · 자료 확인 22:19 KST**
+**2026.11.09 (월) · 자료 확인 22:20 KST**
 
-> 전일 S&P 500 -4.35%·Nasdaq 100 -6.36%·SOX -12.25%의 AI·반도체 투매와 시장 폭 악화를 분석했습니다. 반도체 선물 반등, AI 입법 계획, 고용보고서 발표 전 금리 경로, 생산성, Alphabet의 Qualcomm 지분, 실적 분화를 함께 점검합니다.
+> 금요일 S&P 500 +0.31%·Nasdaq 100 +1.35%·SOX +4.21%의 반등에도 주간 SOX는 -12.15%였습니다. Nvidia CEO 조사, 강한 고용과 CPI, AI 부채 심사, CoreWeave 실적, Constellation 전력계약과 유가 하락을 분석합니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-06_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-09_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-11-09 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-09_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-07 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-11-07_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-11-06 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-06_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-05 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-05_미국증시_개장전.md) | 당일 자료 검증·발행 |
