@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-11-13 미국 증시 개장 전 심층 브리핑
+### 📈 2026-11-16 미국 증시 개장 전 심층 브리핑
 
-**2026.11.13 (금) · 자료 확인 22:35 KST**
+**2026.11.16 (월) · 자료 확인 22:50 KST**
 
-> 전일 S&P 500 -0.35%·Nasdaq 100 -0.30%·SOX -0.54%와 개장 전 선물을 구분했습니다. Nvidia CEO 전환, 10년물 5.10%, Cisco·Applied Materials 호실적, Microsoft 장애와 유가·이란 위험을 분석했으며 PPI 실제값은 공식 확인 전 추정하지 않았습니다.
+> 전일 S&P 500 -0.4%·Nasdaq 100 -1.22%·SOX -3.43%와 개장 전 선물을 구분했습니다. Nvidia 실적·경영 연속성, Anthropic IPO 자금 재배치, 5%대 장기금리와 AI 인프라 금융 위험을 지수 중심으로 분석했습니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-13_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-16_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-11-16 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-16_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-14 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-11-14_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-11-13 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-13_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-12 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-12_미국증시_개장전.md) | 당일 자료 검증·발행 |
