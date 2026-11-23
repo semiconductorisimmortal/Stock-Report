@@ -9,13 +9,13 @@
 ## 최신 보고서 · 바로 읽기
 
 <!-- PREMARKET_LATEST_START: update only this section after successful premarket report commit -->
-### 📈 2026-11-20 미국 증시 개장 전 심층 브리핑
+### 📈 2026-11-23 미국 증시 개장 전 심층 브리핑
 
-**2026.11.20 (금) · 자료 확인 22:12 KST**
+**2026.11.23 (월) · 자료 확인 22:14 KST**
 
-> 전일 S&P 500 -2.02%·Nasdaq 100 -2.21%·SOX -2.41%와 개장 전 선물을 분리했습니다. Anthropic 상장 후 되돌림, AI 투자수익률 우려, 고용·제조·선행지수의 엇갈림, 연준·달러·Intuit의 지수별 파급경로를 분석했습니다.
+> 직전 정규장 S&P 500 -3.70%·Nasdaq 100 -5.61%·SOX -7.06%와 개장 전 선물 반등을 분리했습니다. AI·반도체 반등의 질, 금리·PCE, Nvidia 지배구조, Anthropic IPO, CrowdStrike–Zscaler 인수와 Dell 실적의 지수별 파급경로를 분석했습니다.
 
-### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-20_미국증시_개장전.md)**
+### **[→ 오늘 미국 증시 보고서 바로 읽기](premarket/2026-11-23_미국증시_개장전.md)**
 
 월요일–금요일 · 22:15 KST 발행 예정
 <!-- PREMARKET_LATEST_END -->
@@ -41,6 +41,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-11-23 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-23_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-21 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-11-21_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-11-20 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-20_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-19 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-19_미국증시_개장전.md) | 당일 자료 검증·발행 |
