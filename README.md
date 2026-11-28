@@ -21,15 +21,9 @@
 <!-- PREMARKET_LATEST_END -->
 
 <!-- PHYSICAL_AI_LATEST_START: update only this section after successful weekly report commit -->
-### 🤖 2026-11-21 AI · Physical AI 주간 심층 리포트
-
-**2026.11.21 (토) · 자료 기준 21:00 KST**
-
-> WEVO의 배포 정렬 world-model RL, Genie 4의 실시간 생성 환경, OpenAI 연구 agent 측정, TokenEconomizer, SHAPE의 인간 영상 기반 dexterous transfer를 분석했습니다. 실제 로봇의 단일 run·소표본 평가와 기관 자체 측정 범위를 분리해 표시했습니다.
-
-### **[→ 최신 Physical AI 보고서 바로 읽기](physical-ai/2026-11-21_AI-PhysicalAI_주간.md)**
-
-토요일 · 21:00 KST 발행 예정
+### 🤖 2026-11-28 AI · Physical AI 주간 심층 리포트
+PAWlicy의 world-model latent action pretraining, RoboProbe의 물리 위반 평가, GPT-6.2 단백질 설계, Siren sandbox escape, Switchcraft agent routing을 분석했습니다. Simulation·wet-lab·의도적 안전 평가의 조건과 독립 재현 상태를 구분했습니다.
+### **[→ 최신 Physical AI 보고서 바로 읽기](physical-ai/2026-11-28_AI-PhysicalAI_주간.md)**
 <!-- PHYSICAL_AI_LATEST_END -->
 
 > **발행 참고:** 위 두 보고서는 2026.10.13에 과거 기준 시점으로 재구성한 문서입니다. 정기 예약의 실제 자동 발행 성공을 뜻하지는 않습니다.
@@ -41,6 +35,7 @@
 | 분석 기준일 (KST) | 카테고리 | 보고서 | 작성 방식 |
 | :--- | :--- | :--- | :--- |
 <!-- ARCHIVE_ROWS_START: insert new verified report rows directly below table header, preserve old rows -->
+| 2026-11-28 | 🤖 Physical AI | [AI·Physical AI 주간 심층 보고서](physical-ai/2026-11-28_AI-PhysicalAI_주간.md) | 당일 자료 검증·발행 |
 | 2026-11-27 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-27_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-26 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-26_미국증시_개장전.md) | 당일 자료 검증·발행 |
 | 2026-11-25 | 📈 US Markets | [미국 증시 개장 전 심층 브리핑](premarket/2026-11-25_미국증시_개장전.md) | 당일 자료 검증·발행 |
